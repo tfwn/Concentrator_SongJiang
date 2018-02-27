@@ -1,0 +1,21 @@
+E:\PC software\6009_8009_Tools\UsbLibrary\bin\x86\Debug\UsbLibrary.dll
+E:\PC software\6009_8009_Tools\UsbLibrary\bin\x86\Debug\UsbLibrary.pdb
+E:\PC software\6009_8009_Tools\UsbLibrary\bin\x86\Debug\UsbLibrary.XML
+E:\PC software\6009_8009_Tools\UsbLibrary\obj\x86\Debug\UsbLibrary.dll
+E:\PC software\6009_8009_Tools\UsbLibrary\obj\x86\Debug\UsbLibrary.pdb
+E:\PC software\6009_8009_Tools\UsbLibrary\obj\x86\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+E:\6009\SR6009.ConcentratorTools\UsbLibrary\bin\x86\Debug\UsbLibrary.dll
+E:\6009\SR6009.ConcentratorTools\UsbLibrary\bin\x86\Debug\UsbLibrary.pdb
+E:\6009\SR6009.ConcentratorTools\UsbLibrary\bin\x86\Debug\UsbLibrary.XML
+E:\6009\SR6009.ConcentratorTools\UsbLibrary\obj\x86\Debug\UsbLibrary.dll
+E:\6009\SR6009.ConcentratorTools\UsbLibrary\obj\x86\Debug\UsbLibrary.pdb
+F:\work\Code\SR6009.ConcentratorTools\UsbLibrary\bin\x86\Debug\UsbLibrary.dll
+F:\work\Code\SR6009.ConcentratorTools\UsbLibrary\bin\x86\Debug\UsbLibrary.pdb
+F:\work\Code\SR6009.ConcentratorTools\UsbLibrary\bin\x86\Debug\UsbLibrary.XML
+F:\work\Code\SR6009.ConcentratorTools\UsbLibrary\obj\x86\Debug\UsbLibrary.dll
+F:\work\Code\SR6009.ConcentratorTools\UsbLibrary\obj\x86\Debug\UsbLibrary.pdb
+F:\work\Code\Concentrator_SongJiang\SR6009.ConcentratorTools\UsbLibrary\bin\x86\Debug\UsbLibrary.dll
+F:\work\Code\Concentrator_SongJiang\SR6009.ConcentratorTools\UsbLibrary\bin\x86\Debug\UsbLibrary.pdb
+F:\work\Code\Concentrator_SongJiang\SR6009.ConcentratorTools\UsbLibrary\bin\x86\Debug\UsbLibrary.XML
+F:\work\Code\Concentrator_SongJiang\SR6009.ConcentratorTools\UsbLibrary\obj\x86\Debug\UsbLibrary.dll
+F:\work\Code\Concentrator_SongJiang\SR6009.ConcentratorTools\UsbLibrary\obj\x86\Debug\UsbLibrary.pdb

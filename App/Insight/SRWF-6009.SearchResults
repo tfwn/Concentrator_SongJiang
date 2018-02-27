@@ -1,0 +1,5 @@
+---- Read_Meter_Data Matches (4 in 2 files) ----
+DataHandle.c (user):        DataFrmPtr->Command != Read_Meter_Data &&//left and right operands are identical
+DataHandle.c (user):            txDataFrmPtr->Command = Read_Meter_Data;
+DataHandle.c (user):    DataFrmPtr->Command = Read_Meter_Data;
+DataHandle.h (user):    Read_Meter_Data = 0x01,                             // 读表端数据,主动上传时冻结数据也用此指令

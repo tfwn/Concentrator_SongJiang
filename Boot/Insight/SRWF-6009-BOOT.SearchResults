@@ -1,0 +1,6 @@
+---- Uart1.RxTimer Matches (5 in 3 files) ----
+Timer.c:    if (Uart1.RxTimer > 0)
+Timer.c:        Uart1.RxTimer--;
+Uart.c:    Uart1.RxTimer = 0;
+Uart.c:            Uart1.RxTimer = UART_RX_OVERTIME;
+Uart_Update.c:    if (Uart1.RxLen > 0 && 0 == Uart1.RxTimer)
